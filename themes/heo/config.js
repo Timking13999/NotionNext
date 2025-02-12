@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '加微信fangliao001了解更多', url: 'https://docs.tangly1024.com' }
+    { title: '从新手到专家，领航员加速每一次蜕变', url: 'https://www.aromanavigator.com' },
+    { title: '新手起步的底气，专家路上的底气', url: 'https://www.aromanavigator.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -20,12 +20,12 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享芳疗',
   HEO_HERO_TITLE_2: '与学习经验',
-  HEO_HERO_TITLE_3: 'king13999.com',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '芳疗领航 如何选择芳疗机构和老师',
-  HEO_HERO_TITLE_LINK: 'https://www.king13999.com',
+  HEO_HERO_TITLE_3: 'aromanavigator.com',
+  HEO_HERO_TITLE_4: '芳疗领航',
+  HEO_HERO_TITLE_5: '如何选择芳疗培训机构',
+  HEO_HERO_TITLE_LINK: 'https://www.aromanavigator.com',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '更多内容',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
