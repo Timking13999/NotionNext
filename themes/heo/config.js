@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '从新手到专家，加速每次蜕变🌱', url: 'https://www.aromanavigator.com' },
-    { title: '新手起步的底气，专家路上的底气💪', url: 'https://www.aromanavigator.com' }
+    { title: '日拱一卒，功不唐捐💪', url: 'https://www.aromanavigator.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
