@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '从新手到专家，加速每次蜕变🌱', url: 'https://www.aromanavigator.com' },
+    { title: '先上路，再思考🌱', url: 'https://www.aromanavigator.com' },
     { title: '日拱一卒，功不唐捐💪', url: 'https://www.aromanavigator.com' }
   ],
 
@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '你专注突破',
-  HEO_HERO_TITLE_2: '我精准导航',
+  HEO_HERO_TITLE_1: '专业和营销',
+  HEO_HERO_TITLE_2: '芳疗师必备',
   HEO_HERO_TITLE_3: 'aromanavigator.com',
   HEO_HERO_TITLE_4: '芳疗领航',
   HEO_HERO_TITLE_5: '如何选择芳疗培训机构',
@@ -29,8 +29,8 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '芳疗经验', url: '/tag/芳疗经验' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_2: { title: '芳疗学习', url: '/tag/芳疗学习' },
+  HEO_HERO_CATEGORY_3: { title: '营销心得', url: '/tag/营销心得' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
