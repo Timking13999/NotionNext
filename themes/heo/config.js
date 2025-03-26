@@ -18,10 +18,10 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '专业和营销',
-  HEO_HERO_TITLE_2: '芳疗师必备',
+  HEO_HERO_TITLE_1: '日拱一卒',
+  HEO_HERO_TITLE_2: '功不唐捐',
   HEO_HERO_TITLE_3: 'aromanavigator.com',
-  HEO_HERO_TITLE_4: '芳疗领航',
+  HEO_HERO_TITLE_4: '学习经验',
   HEO_HERO_TITLE_5: '如何选择芳疗培训机构',
   HEO_HERO_TITLE_LINK: 'https://www.aromanavigator.com',
   // 英雄区遮罩文字
