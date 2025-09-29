@@ -16,7 +16,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '醒醒', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '醒醒', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://tangly1024.com', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.king13999.com', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '芳香疗法,精油,芳疗,芳疗师,IFA芳疗,芳疗证书,国际芳疗师，NAHA芳疗，芳疗学习,芳疗培训机构,法系芳疗,科学芳疗,医学芳疗,临床芳疗,学芳疗', // 网站关键词 英文逗号隔开
   BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
   BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '陕ICP备2025061611号-1', // 备案号 闽ICP备XXXXXX
